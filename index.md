@@ -12,4 +12,4 @@ Git 安裝與設定 & 設定
  <iframe width="560" height="315" src="https://www.youtube.com/embed/VymXpGweZZM" frameborder="0" allowfullscreen=""></iframe>  
 
 [chapter 3](chapter3.R)的腳本  
-chapter 4的[markdown](chapter4.md)與[html](chapter4.html)
+chapter 4的[R markdown](chapter4.Rmd)與[html](chapter4.html)
