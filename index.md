@@ -20,4 +20,5 @@ Git 安裝與設定 & 設定
 chapter 4的[R markdown](chapter4.Rmd)與[html](chapter4.html)  
 [charpter 5](chapter5.Rmd)的R markdown **完成作品要轉換成HTML**  
 chapter 6的R markdown**由你來完成**  
+ + chapter 6的附件資料[targets.csv](https://raw.githubusercontent.com/netskink/tryrcodeschool/master/targets.csv), [piracy.csv](https://raw.githubusercontent.com/netskink/tryrcodeschool/master/piracy.csv)  
 chapter 7**總結**  
